@@ -1,0 +1,4 @@
+﻿  OS3lr.cpp
+C:\Users\Dallahan\source\repos\OS3lr\OS3lr\OS3lr.cpp(25,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dallahan\source\repos\OS3lr\OS3lr\OS3lr.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS3lr.vcxproj -> C:\Users\Dallahan\source\repos\OS3lr\Debug\OS3lr.exe

@@ -1,0 +1,4 @@
+﻿  OSlab2.cpp
+C:\Users\Dallahan\source\repos\OSlab2\OSlab2\OSlab2.cpp(85): error C2102: для "&" требуется левостороннее значение
+C:\Users\Dallahan\source\repos\OSlab2\OSlab2\OSlab2.cpp(87): error C2102: для "&" требуется левостороннее значение
+C:\Users\Dallahan\source\repos\OSlab2\OSlab2\OSlab2.cpp(95): error C2102: для "&" требуется левостороннее значение

@@ -1,0 +1,3 @@
+﻿  OSlr5.cpp
+C:\Users\Dallahan\source\repos\OSlr5\OSlr5\OSlr5.cpp(27,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OSlr5.vcxproj -> C:\Users\Dallahan\source\repos\OSlr5\Debug\OSlr5.exe

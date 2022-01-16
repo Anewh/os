@@ -1,0 +1,5 @@
+﻿  OSlr6.cpp
+C:\Users\Dallahan\source\repos\OSlr6\OSlr6\OSlr6.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dallahan\source\repos\OSlr6\OSlr6\OSlr6.cpp(83,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Dallahan\source\repos\OSlr6\OSlr6\OSlr6.cpp(84,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OSlr6.vcxproj -> C:\Users\Dallahan\source\repos\OSlr6\Debug\OSlr6.exe
